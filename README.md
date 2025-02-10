@@ -52,6 +52,11 @@ __РАБОТАЮ КАК С ТЕХНИЧЕСКИМ ЗАДАНИЕМ, ТАК И Б
 ![alt text](screenshots/pda_stalcraft/3.png "PDA_STALCRAFT")  
 ![alt text](screenshots/pda_stalcraft/4.png "PDA_STALCRAFT")  
 ![alt text](screenshots/pda_stalcraft/5.png "PDA_STALCRAFT")  
+![alt text](screenshots/pda_stalcraft/6.png "PDA_STALCRAFT")  
+![alt text](screenshots/pda_stalcraft/7.png "PDA_STALCRAFT")  
+![alt text](screenshots/pda_stalcraft/8.png "PDA_STALCRAFT")  
+![alt text](screenshots/pda_stalcraft/9.png "PDA_STALCRAFT")  
+![alt text](screenshots/pda_stalcraft/10.png "PDA_STALCRAFT")  
 
 4. Мод на меню (2021г)
 
