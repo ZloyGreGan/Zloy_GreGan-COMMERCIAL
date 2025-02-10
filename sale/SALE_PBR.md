@@ -14,5 +14,7 @@ VAO/VBO Рендеринг
 
 Optifine шейдеры не поддерживаются!
 
+Цена 15000р
+
 📩 Telegram: [@Zloy_GreGan](https://t.me/Zloy_GreGan)  
 📩 VK: [zloygregan](vk.com/zloygregan)  
