@@ -43,6 +43,7 @@ __РАБОТАЮ КАК С ТЕХНИЧЕСКИМ ЗАДАНИЕМ, ТАК И Б
 ![alt text](screenshots/decor/0.png "DECOR")  
 ![alt text](screenshots/decor/1.png "DECOR")  
 ![alt text](screenshots/decor/2.png "DECOR")  
+![alt text](screenshots/decor/3.png "DECOR")  
 
 3. PDA STALCRAFT (Не законченная версия)
 
