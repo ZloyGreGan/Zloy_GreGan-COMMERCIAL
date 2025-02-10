@@ -32,7 +32,7 @@ __РАБОТАЮ КАК С ТЕХНИЧЕСКИМ ЗАДАНИЕМ, ТАК И Б
 
 
 # Примеры работ
-1. PBR (Физически корректный рендеринг) ![КУПИТЬ](SALE.md)
+1. PBR (Физически корректный рендеринг) [КУПИТЬ](sale/SALE_PBR.md)
    
 ![alt text](screenshots/pbr/0.png "PBR")  
 ![alt text](screenshots/pbr/1.png "PBR")  
