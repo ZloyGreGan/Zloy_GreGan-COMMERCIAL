@@ -53,14 +53,14 @@ __РАБОТАЮ КАК С ТЕХНИЧЕСКИМ ЗАДАНИЕМ, ТАК И Б
 ![alt text](screenshots/pda_stalcraft/4.png "PDA_STALCRAFT")  
 ![alt text](screenshots/pda_stalcraft/5.png "PDA_STALCRAFT")  
 
-3. Мод на меню (2021г)
+4. Мод на меню (2021г)
 
 ![alt text](screenshots/menu_2021/0.png "MENU_2021")  
 
-4. Радиальное меню действий
+5. Радиальное меню действий
 
 ![alt text](screenshots/radial_menu/0.png "RADIAL_MENU")  
 
-5. Максимально простенькая система прокачки
+6. Максимально простенькая система прокачки
 
 ![alt text](screenshots/minimal_pumping/0.png "PUMPING")  
