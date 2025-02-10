@@ -13,3 +13,6 @@ VAO/VBO Рендеринг
 Выгрузка неиспользуемых ресурсов  
 
 Optifine шейдеры не поддерживаются!
+
+📩 Telegram: [@Zloy_GreGan](https://t.me/Zloy_GreGan)  
+📩 VK: [zloygregan](vk.com/zloygregan)  
