@@ -37,3 +37,30 @@ __РАБОТАЮ КАК С ТЕХНИЧЕСКИМ ЗАДАНИЕМ, ТАК И Б
 ![alt text](screenshots/pbr/0.png "PBR")  
 ![alt text](screenshots/pbr/1.png "PBR")  
 ![alt text](screenshots/pbr/2.png "PBR")  
+
+2. Decoration mod (Мод на декорации) [КУПИТЬ](sale/SALE_DECOR.md)
+
+![alt text](screenshots/decor/0.png "DECOR")  
+![alt text](screenshots/decor/1.png "DECOR")  
+![alt text](screenshots/decor/2.png "DECOR")  
+
+3. PDA STALCRAFT (Не законченная версия)
+
+![alt text](screenshots/pda_stalcraft/0.png "PDA_STALCRAFT")  
+![alt text](screenshots/pda_stalcraft/1.png "PDA_STALCRAFT")  
+![alt text](screenshots/pda_stalcraft/2.png "PDA_STALCRAFT")  
+![alt text](screenshots/pda_stalcraft/3.png "PDA_STALCRAFT")  
+![alt text](screenshots/pda_stalcraft/4.png "PDA_STALCRAFT")  
+![alt text](screenshots/pda_stalcraft/5.png "PDA_STALCRAFT")  
+
+3. Мод на меню (2021г)
+
+![alt text](screenshots/menu_2021/0.png "MENU_2021")  
+
+4. Радиальное меню действий
+
+![alt text](screenshots/radial_menu/0.png "RADIAL_MENU")  
+
+5. Максимально простенькая система прокачки
+
+![alt text](screenshots/minimal_pumping/0.png "PUMPING")  
