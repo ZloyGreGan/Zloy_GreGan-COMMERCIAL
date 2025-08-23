@@ -50,7 +50,6 @@ __Пишите, и замутим что-то крутое! 🚀__
   <img src="screenshots/auction/3.png" alt="AUCTION" width ="70%" />
   <img src="screenshots/auction/4.png" alt="AUCTION" width ="70%" />
   <img src="screenshots/auction/5.png" alt="AUCTION" width ="70%" />
-  <img src="screenshots/auction/6.png" alt="AUCTION" width ="70%" />
   </p>
 </details>
 
