@@ -36,6 +36,26 @@ __Пишите, и замутим что-то крутое! 🚀__
 
 ## 🔥 Примеры работ
 
+### Торговая площадка (Аукцион)
+
+<details close>
+  <summary>Подробнее: </summary>
+  <p align="left">
+     
+  Версия Minecraft:  1.7.10.   
+
+  <img src="screenshots/auction/0.png" alt="AUCTION" width ="70%" />
+  <img src="screenshots/auction/1.png" alt="AUCTION" width ="70%" />
+  <img src="screenshots/auction/2.png" alt="AUCTION" width ="70%" />
+  <img src="screenshots/auction/3.png" alt="AUCTION" width ="70%" />
+  <img src="screenshots/auction/4.png" alt="AUCTION" width ="70%" />
+  <img src="screenshots/auction/5.png" alt="AUCTION" width ="70%" />
+  <img src="screenshots/auction/6.png" alt="AUCTION" width ="70%" />
+  </p>
+</details>
+
+---
+
 ### Skeletal Animation (Скелетные анимации)
 
 <details close>
