@@ -1,7 +1,7 @@
-# Юра — Java-разработчик (КОММЕРЦИЯ)
-🔹 О себе  
+# 🎮 Юра — Java-разработчик (КОММЕРЦИЯ)
+## 🔥 О себе  
 
-Привет! Меня зовут Юра, мне 22 года. Моя основная специализация — создание модов для Minecraft 1.7.10, 1.12.2. Помимо этого, я могу заниматься разработкой вашего проекта в одиночку, включая полное переписывание игры. Я разрабатываю качественные, оптимизированные и хорошо расширяемые модификации, соблюдая чистоту кода и производительность.  
+Привет! Я Юра, Java-разработчик с фокусом на создании модов для Minecraft (1.7.10, 1.12.2). За 4 года работы я создал десятки модификаций: от сложных игровых механик до кастомных интерфейсов. Мой код — это чистота, оптимизация и расширяемость. Готов взяться за ваш проект, будь то мод с нуля или рефакторинг существующего кода.  
 
 🔹 Что я предлагаю?  
 
@@ -11,7 +11,7 @@
 ✔ Разработка пользовательского интерфейса (GUI/HUD) любой сложности (фронт/бэк)  
 ✔ Разработка и поддержка API для взаимодействия с другими системами  
 ✔ Разработка игровых проектов с нуля, включая полное переписывание игрового кода  
-✔ Продажа готовых(самописных) модификаций
+✔ Продажа готовых(самописных) модификаций  
 
 🔹 Гарантия конфиденциальности  
 
@@ -21,54 +21,116 @@
 
 Оплата – Работа осуществляется по предоплате (50%) или на договорной основе, с четко прописанными условиями, обеспечивающими безопасность и прозрачность сделки.  
 
-Сбербанк
+✔ Сбербанк  
 
 🔹 Как связаться?  
 
-📩 Telegram: [@Zloy_GreGan](https://t.me/Zloy_GreGan)  
-📩 VK: [zloygregan](vk.com/zloygregan)  
+📬 Telegram: [@Zloy_GreGan](https://t.me/Zloy_GreGan)  
+📬 VK: [zloygregan](vk.com/zloygregan)  
 
->__ПРЕДОСТАВЛЯЮ ПОЛНУЮ ЗАЩИТУ: РАЗДЕЛЕНИЕ КЛИЕНТ-СЕРВЕР, ОБФУСКАЦИЯ.__
-__РАБОТАЮ КАК С ТЕХНИЧЕСКИМ ЗАДАНИЕМ, ТАК И БЕЗ НЕГО.__
+>__ПРЕДОСТАВЛЯЮ ПОЛНУЮ ЗАЩИТУ: РАЗДЕЛЕНИЕ КЛИЕНТ-СЕРВЕР, ОБФУСКАЦИЯ.__  
+__РАБОТАЮ КАК С ТЕХНИЧЕСКИМ ЗАДАНИЕМ, ТАК И БЕЗ НЕГО.__  
+
+__Пишите, и замутим что-то крутое! 🚀__  
 
 
+## 🔥 Примеры работ
 
-# Примеры работ
-1. PBR (Физически корректный рендеринг) [КУПИТЬ](sale/SALE_PBR.md)
-   
-![alt text](screenshots/pbr/0.png "PBR")  
-![alt text](screenshots/pbr/1.png "PBR")  
-![alt text](screenshots/pbr/2.png "PBR")  
+### PBR (Физически корректный рендеринг) [КУПИТЬ](sale/SALE_PBR.md) 
 
-2. Decoration mod (Мод на декорации) (PBR) [КУПИТЬ](sale/SALE_DECOR.md)
+<details close>
+  <summary>Подробнее: </summary>
+  <p align="left">
+     
+  Версия Minecraft:  1.7.10/1.12.2.   
+     
+  <img src="screenshots/pbr/0.png" alt="PBR" width ="70%" />
+  <img src="screenshots/pbr/1.png" alt="PBR" width ="70%" />
+  <img src="screenshots/pbr/2.png" alt="PBR" width ="70%" />
+  </p>
+</details>
 
-![alt text](screenshots/decor/0.png "DECOR")  
-![alt text](screenshots/decor/1.png "DECOR")  
-![alt text](screenshots/decor/2.png "DECOR")  
-![alt text](screenshots/decor/3.png "DECOR")  
+---
 
-3. PDA STALCRAFT (Не законченная версия)
+### Decoration mod (Мод на декорации) (PBR) [КУПИТЬ](sale/SALE_DECOR.md)
 
-![alt text](screenshots/pda_stalcraft/0.png "PDA_STALCRAFT")  
-![alt text](screenshots/pda_stalcraft/1.png "PDA_STALCRAFT")  
-![alt text](screenshots/pda_stalcraft/2.png "PDA_STALCRAFT")  
-![alt text](screenshots/pda_stalcraft/3.png "PDA_STALCRAFT")  
-![alt text](screenshots/pda_stalcraft/4.png "PDA_STALCRAFT")  
-![alt text](screenshots/pda_stalcraft/5.png "PDA_STALCRAFT")  
-![alt text](screenshots/pda_stalcraft/6.png "PDA_STALCRAFT")  
-![alt text](screenshots/pda_stalcraft/7.png "PDA_STALCRAFT")  
-![alt text](screenshots/pda_stalcraft/8.png "PDA_STALCRAFT")  
-![alt text](screenshots/pda_stalcraft/9.png "PDA_STALCRAFT")  
-![alt text](screenshots/pda_stalcraft/10.png "PDA_STALCRAFT")  
+<details close>
+  <summary>Скриншоты: </summary>
+  <p align="left">
+          
+  Версия Minecraft:  1.7.10.   
+     
+  <img src="screenshots/decor/0.png" alt="DECOR" width ="70%" />
+  <img src="screenshots/decor/1.png" alt="DECOR" width ="70%" />
+  <img src="screenshots/decor/2.png" alt="DECOR" width ="70%" />
+  <img src="screenshots/decor/3.png" alt="DECOR" width ="70%" />
+  </p>
+</details>
 
-4. Мод на меню (2021г)
+---
 
-![alt text](screenshots/menu_2021/0.png "MENU_2021")  
+### PDA STALCRAFT (Не законченная версия)
 
-5. Радиальное меню действий
+<details close>
+  <summary>Скриншоты: </summary>
+  <p align="left">
+          
+  Версия Minecraft:  1.7.10.   
+     
+  <img src="screenshots/pda_stalcraft/0.png" alt="PDA" width ="70%" />
+  <img src="screenshots/pda_stalcraft/1.png" alt="PDA" width ="70%" />
+  <img src="screenshots/pda_stalcraft/2.png" alt="PDA" width ="70%" />
+  <img src="screenshots/pda_stalcraft/3.png" alt="PDA" width ="70%" />
+  <img src="screenshots/pda_stalcraft/4.png" alt="PDA" width ="70%" />
+  <img src="screenshots/pda_stalcraft/5.png" alt="PDA" width ="70%" />
+  <img src="screenshots/pda_stalcraft/6.png" alt="PDA" width ="70%" />
+  <img src="screenshots/pda_stalcraft/7.png" alt="PDA" width ="70%" />
+  <img src="screenshots/pda_stalcraft/8.png" alt="PDA" width ="70%" />
+  <img src="screenshots/pda_stalcraft/9.png" alt="PDA" width ="70%" />
+  <img src="screenshots/pda_stalcraft/10.png" alt="PDA" width ="70%" />
+  </p>
+</details>
 
-![alt text](screenshots/radial_menu/0.png "RADIAL_MENU")  
+---
 
-6. Максимально простенькая система прокачки
+### Мод на меню (2021г)
 
-![alt text](screenshots/minimal_pumping/0.png "PUMPING")  
+<details close>
+  <summary>Скриншоты: </summary>
+  <p align="left">
+          
+  Версия Minecraft:  1.7.10/1.12.2.   
+     
+  <img src="screenshots/menu_2021/0.png" alt="MAIN_MENU" width ="70%" />
+  </p>
+</details>
+
+---
+
+### Радиальное меню действий
+
+<details close>
+  <summary>Скриншоты: </summary>
+  <p align="left">
+          
+  Версия Minecraft:  1.7.10/1.12.2.   
+     
+  <img src="screenshots/radial_menu/0.png" alt="RADIAL_MENU" width ="70%" />
+  </p>
+</details>
+
+---
+
+### Максимально простенькая система прокачки
+
+<details close>
+  <summary>Скриншоты: </summary>
+  <p align="left">
+          
+  Версия Minecraft:  1.7.10/1.12.2.   
+     
+  <img src="screenshots/minimal_pumping/0.png" alt="PUMPING" width ="70%" />
+  </p>
+</details>
+
+---
