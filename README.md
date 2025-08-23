@@ -121,6 +121,7 @@ __Пишите, и замутим что-то крутое! 🚀__
   <img src="screenshots/pda_stalcraft/8.png" alt="PDA" width ="70%" />
   <img src="screenshots/pda_stalcraft/9.png" alt="PDA" width ="70%" />
   <img src="screenshots/pda_stalcraft/10.png" alt="PDA" width ="70%" />
+  <img src="screenshots/pda_stalcraft/11.png" alt="PDA" width ="70%" />
   </p>
 </details>
 
