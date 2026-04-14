@@ -41,6 +41,24 @@ __Пишите, и замутим что-то крутое! 🚀__
 
 ## 🔥 Примеры работ
 
+### Custom FOG (Собственная система тумана)
+
+<details close>
+  <summary>Подробнее: </summary>
+  <p align="left">
+          
+  Версия Minecraft:  1.7.10/1.12.2.   
+     
+  <img src="screenshots/fog/0.png" alt="FOG" width ="70%" />
+  <img src="screenshots/fog/1.png" alt="FOG" width ="70%" />
+  <img src="screenshots/fog/2.png" alt="FOG" width ="70%" />
+  <img src="screenshots/fog/3.png" alt="FOG" width ="70%" />
+  <img src="screenshots/fog/4.png" alt="FOG" width ="70%" />
+  </p>
+</details>
+
+---
+
 ### Торговая площадка (Аукцион)
 
 <details close>
@@ -74,7 +92,7 @@ __Пишите, и замутим что-то крутое! 🚀__
 
 ---
 
-### PBR (Физически корректный рендеринг) [КУПИТЬ](sale/SALE_PBR.md) 
+### PBR + Bloom (Физически корректный рендеринг) [КУПИТЬ](sale/SALE_PBR.md) 
 
 <details close>
   <summary>Подробнее: </summary>
@@ -85,6 +103,8 @@ __Пишите, и замутим что-то крутое! 🚀__
   <img src="screenshots/pbr/0.png" alt="PBR" width ="70%" />
   <img src="screenshots/pbr/1.png" alt="PBR" width ="70%" />
   <img src="screenshots/pbr/2.png" alt="PBR" width ="70%" />
+  <img src="screenshots/pbr/3.png" alt="PBR" width ="70%" />
+  <img src="screenshots/pbr/4.png" alt="PBR" width ="70%" />
   </p>
 </details>
 
@@ -132,7 +152,7 @@ __Пишите, и замутим что-то крутое! 🚀__
 
 ---
 
-### Мод на главное меню
+### Всякое
 
 <details close>
   <summary>Подробнее: </summary>
@@ -140,35 +160,16 @@ __Пишите, и замутим что-то крутое! 🚀__
           
   Версия Minecraft:  1.7.10/1.12.2.   
      
-  <img src="screenshots/menu_2021/0.png" alt="MAIN_MENU" width ="70%" />
-  </p>
-</details>
-
----
-
-### Радиальное меню действий
-
-<details close>
-  <summary>Подробнее: </summary>
-  <p align="left">
-          
-  Версия Minecraft:  1.7.10/1.12.2.   
-     
-  <img src="screenshots/radial_menu/0.png" alt="RADIAL_MENU" width ="70%" />
-  </p>
-</details>
-
----
-
-### Максимально простенькая система прокачки
-
-<details close>
-  <summary>Подробнее: </summary>
-  <p align="left">
-          
-  Версия Minecraft:  1.7.10/1.12.2.   
-     
-  <img src="screenshots/minimal_pumping/0.png" alt="PUMPING" width ="70%" />
+  <img src="screenshots/other/eft_menu.png" alt="OTHER" width ="70%" />
+  <img src="screenshots/other/admin_menu.png" alt="OTHER" width ="70%" />
+  <img src="screenshots/other/minimal_pumping.png" alt="OTHER" width ="70%" />
+  <img src="screenshots/other/menu_2021_0.png" alt="OTHER" width ="70%" />
+  <img src="screenshots/other/menu_2021_1.png" alt="OTHER" width ="70%" />
+  <img src="screenshots/other/menu_2021_2.png" alt="OTHER" width ="70%" />
+  <img src="screenshots/other/dich_0.png" alt="OTHER" width ="70%" />
+  <img src="screenshots/other/dich_1.png" alt="OTHER" width ="70%" />
+  <img src="screenshots/other/dich_2.png" alt="OTHER" width ="70%" />
+  <img src="screenshots/other/radial_menu.png" alt="OTHER" width ="70%" />
   </p>
 </details>
 
