@@ -7,6 +7,9 @@
 ✔ Поддерживается только OBJ формат  
 ✔ Поддерживаютя такие карты как: Albedo(или Diffuse), Normal Map, Roughness, Metallic, Ambient Occlusion, Emissive Map  
 ✔ VAO/VBO Рендеринг  
+✔ Instancing Рендеринг  
+✔ Bloom Рендеринг  
+✔ Gamma correction
 ✔ Напрвленный (Directional Light) и точечный свет (Point Light)  
 ✔ Поддержка DDS текстур  
 ✔ Система кодирования/декодирования ресурсов  
@@ -19,7 +22,7 @@
 💯 Так же, я могу дополнять, изменять данный мод за дополнительную плату.  
 💯 Помогу разобраться.  
 
-💲 Цена 5000р
+💲 Цена 7000р
 
 📩 Telegram: [@Zloy_GreGan](https://t.me/Zloy_GreGan)  
 📩 VK: [zloygregan](vk.com/zloygregan)  
