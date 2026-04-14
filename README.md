@@ -161,6 +161,9 @@ __Пишите, и замутим что-то крутое! 🚀__
   Версия Minecraft:  1.7.10/1.12.2.   
      
   <img src="screenshots/other/eft_menu.png" alt="OTHER" width ="70%" />
+  <img src="screenshots/other/dec_0.png" alt="OTHER" width ="70%" />
+  <img src="screenshots/other/dec_1.png" alt="OTHER" width ="70%" />
+  <img src="screenshots/other/dec_2.png" alt="OTHER" width ="70%" />
   <img src="screenshots/other/admin_menu.png" alt="OTHER" width ="70%" />
   <img src="screenshots/other/minimal_pumping.png" alt="OTHER" width ="70%" />
   <img src="screenshots/other/menu_2021_0.png" alt="OTHER" width ="70%" />
@@ -170,6 +173,9 @@ __Пишите, и замутим что-то крутое! 🚀__
   <img src="screenshots/other/dich_1.png" alt="OTHER" width ="70%" />
   <img src="screenshots/other/dich_2.png" alt="OTHER" width ="70%" />
   <img src="screenshots/other/radial_menu.png" alt="OTHER" width ="70%" />
+  <img src="screenshots/other/trade.png" alt="OTHER" width ="70%" />
+  <img src="screenshots/other/iferi_menu.png" alt="OTHER" width ="70%" />
+  <img src="screenshots/other/little_clans.png" alt="OTHER" width ="70%" />
   </p>
 </details>
 
