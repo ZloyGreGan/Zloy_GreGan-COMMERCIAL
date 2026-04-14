@@ -6,16 +6,16 @@
 
 ✔ Поддерживается только OBJ формат  
 ✔ Поддерживаютя такие карты как: Albedo(или Diffuse), Normal Map, Roughness, Metallic, Ambient Occlusion, Emissive Map  
-✔ VAO/VBO Рендеринг  
+✔ VAO/VBO/FBO Рендеринг  
 ✔ Instancing Рендеринг  
-✔ Bloom Рендеринг  
-✔ Gamma correction
+✔ PostProcessing (Bloom/Gamma correction) Рендеринг  
 ✔ Напрвленный (Directional Light) и точечный свет (Point Light)  
-✔ Поддержка DDS текстур  
+✔ Поддержка DDS/PNG текстур  
 ✔ Система кодирования/декодирования ресурсов  
 ✔ Подгрузка ресурсов из собственного zip архива  
 ✔ Подгрузка ресурсов в реальном времени или на этапе загрузки майна (асинхронная загрузка)  
 ✔ Выгрузка неиспользуемых ресурсов  
+✔ Gui настроек PBR + Bloom  
 
 ⚠️ Optifine шейдеры не поддерживаются!
 
