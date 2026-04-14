@@ -9,7 +9,7 @@
 ✔ VAO/VBO Рендеринг  
 ✔ Instancing Рендеринг  
 ✔ Bloom Рендеринг  
-✔ Gamma correction
+✔ Gamma correction  
 ✔ Напрвленный (Directional Light) и точечный свет (Point Light)  
 ✔ Поддержка DDS текстур  
 ✔ Система кодирования/декодирования ресурсов  
